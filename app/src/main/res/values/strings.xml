@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RFWirelessModuleTest1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">上海龙凯电子科技</string>
+    <string name="toolbarsub_title">蓝牙抄表</string>
+    <string name="jg_lanya">蓝牙连接中断,点击将重新连接</string>
+    <string name="LANYA_ON">ON</string>
+    <string name="LANYA_OFF">OFF</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
